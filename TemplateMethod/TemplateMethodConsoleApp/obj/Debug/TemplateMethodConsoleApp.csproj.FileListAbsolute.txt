@@ -1,0 +1,7 @@
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\bin\Debug\TemplateMethodConsoleApp.exe.config
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\bin\Debug\TemplateMethodConsoleApp.exe
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\bin\Debug\TemplateMethodConsoleApp.pdb
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\obj\Debug\TemplateMethodConsoleApp.csprojAssemblyReference.cache
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\obj\Debug\TemplateMethodConsoleApp.csproj.CoreCompileInputs.cache
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\obj\Debug\TemplateMethodConsoleApp.exe
+C:\ДИСК D\lab projects\TemplateMethod\TemplateMethodConsoleApp\obj\Debug\TemplateMethodConsoleApp.pdb

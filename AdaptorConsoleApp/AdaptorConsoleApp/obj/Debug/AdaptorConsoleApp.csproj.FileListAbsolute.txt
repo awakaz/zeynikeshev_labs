@@ -1,0 +1,7 @@
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\bin\Debug\AdaptorConsoleApp.exe.config
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\bin\Debug\AdaptorConsoleApp.exe
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\bin\Debug\AdaptorConsoleApp.pdb
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\obj\Debug\AdaptorConsoleApp.csprojAssemblyReference.cache
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\obj\Debug\AdaptorConsoleApp.csproj.CoreCompileInputs.cache
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\obj\Debug\AdaptorConsoleApp.exe
+C:\ДИСК D\lab projects\AdaptorConsoleApp\AdaptorConsoleApp\obj\Debug\AdaptorConsoleApp.pdb

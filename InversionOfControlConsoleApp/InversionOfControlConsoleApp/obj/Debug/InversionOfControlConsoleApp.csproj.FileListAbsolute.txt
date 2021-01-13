@@ -1,0 +1,7 @@
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\bin\Debug\InversionOfControlConsoleApp.exe.config
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\bin\Debug\InversionOfControlConsoleApp.exe
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\bin\Debug\InversionOfControlConsoleApp.pdb
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\obj\Debug\InversionOfControlConsoleApp.csprojAssemblyReference.cache
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\obj\Debug\InversionOfControlConsoleApp.csproj.CoreCompileInputs.cache
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\obj\Debug\InversionOfControlConsoleApp.exe
+C:\ДИСК D\lab projects\InversionOfControlConsoleApp\InversionOfControlConsoleApp\obj\Debug\InversionOfControlConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\bin\Debug\BFSandDFSConsoleApp.exe.config
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\bin\Debug\BFSandDFSConsoleApp.exe
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\bin\Debug\BFSandDFSConsoleApp.pdb
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\obj\Debug\BFSandDFSConsoleApp.csprojAssemblyReference.cache
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\obj\Debug\BFSandDFSConsoleApp.csproj.CoreCompileInputs.cache
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\obj\Debug\BFSandDFSConsoleApp.exe
+C:\ДИСК D\lab projects\BFSandDFSConsoleApp\BFSandDFSConsoleApp\obj\Debug\BFSandDFSConsoleApp.pdb

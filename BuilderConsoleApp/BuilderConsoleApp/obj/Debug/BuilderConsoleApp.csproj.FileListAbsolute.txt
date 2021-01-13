@@ -1,0 +1,7 @@
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\bin\Debug\BuilderConsoleApp.exe.config
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\bin\Debug\BuilderConsoleApp.exe
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\bin\Debug\BuilderConsoleApp.pdb
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\obj\Debug\BuilderConsoleApp.csprojAssemblyReference.cache
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\obj\Debug\BuilderConsoleApp.csproj.CoreCompileInputs.cache
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\obj\Debug\BuilderConsoleApp.exe
+C:\ДИСК D\lab projects\BuilderConsoleApp\BuilderConsoleApp\obj\Debug\BuilderConsoleApp.pdb

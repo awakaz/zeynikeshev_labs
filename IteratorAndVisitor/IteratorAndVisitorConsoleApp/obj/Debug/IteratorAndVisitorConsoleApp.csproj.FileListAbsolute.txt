@@ -1,0 +1,7 @@
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\bin\Debug\IteratorAndVisitorConsoleApp.exe.config
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\bin\Debug\IteratorAndVisitorConsoleApp.exe
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\bin\Debug\IteratorAndVisitorConsoleApp.pdb
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\obj\Debug\IteratorAndVisitorConsoleApp.csprojAssemblyReference.cache
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\obj\Debug\IteratorAndVisitorConsoleApp.csproj.CoreCompileInputs.cache
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\obj\Debug\IteratorAndVisitorConsoleApp.exe
+C:\ДИСК D\lab projects\IteratorAndVisitor\IteratorAndVisitorConsoleApp\obj\Debug\IteratorAndVisitorConsoleApp.pdb
